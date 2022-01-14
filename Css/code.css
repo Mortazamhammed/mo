@@ -54,7 +54,7 @@ section{
     min-height:100vh;
     display: flex;
     align-items: center;
-    background: url(images/pexels-george-desipris-792381.jpg) no-repeat;
+    background: url(../images/pexels-george-desipris-792381.jpg) no-repeat;
     background-size:cover;
     background-position: center;
     
